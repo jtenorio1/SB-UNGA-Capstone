@@ -1,0 +1,218 @@
+ID,stateabb,statenme,ccode,Region Code,Macro-Region,Sub-Region,styear,stmonth,stday,endyear,endmonth,endday,version
+1,USA,United States of America,2,2,Americas,Northern America,1816,1,1,2011,12,31,2011
+2,CAN,Canada,20,20,Americas,Northern America,1920,1,10,2011,12,31,2011
+3,BHM,Bahamas,31,31,Americas,Caribbean,1973,7,10,2011,12,31,2011
+5,CUB,Cuba,40,40,Americas,Caribbean,1909,1,23,2011,12,31,2011
+7,HAI,Haiti,41,41,Americas,Caribbean,1934,8,15,2011,12,31,2011
+9,DOM,Dominican Republic,42,42,Americas,Caribbean,1924,9,29,2011,12,31,2011
+10,JAM,Jamaica,51,51,Americas,Caribbean,1962,8,6,2011,12,31,2011
+11,TRI,Trinidad and Tobago,52,52,Americas,Caribbean,1962,8,31,2011,12,31,2011
+12,BAR,Barbados,53,53,Americas,Caribbean,1966,11,30,2011,12,31,2011
+13,DMA,Dominica,54,54,Americas,Caribbean,1978,11,3,2011,12,31,2011
+14,GRN,Grenada,55,55,Americas,Caribbean,1974,2,7,2011,12,31,2011
+15,SLU,St. Lucia,56,56,Americas,Caribbean,1979,2,22,2011,12,31,2011
+16,SVG,St. Vincent and the Grenadines,57,57,Americas,Caribbean,1979,10,27,2011,12,31,2011
+17,AAB,Antigua & Barbuda,58,58,Americas,Caribbean,1981,11,1,2011,12,31,2011
+18,SKN,St. Kitts and Nevis,60,60,Americas,Caribbean,1983,9,19,2011,12,31,2011
+19,MEX,Mexico,70,70,Americas,Central America,1831,1,1,2011,12,31,2011
+20,BLZ,Belize,80,80,Americas,Central America,1981,9,21,2011,12,31,2011
+21,GUA,Guatemala,90,90,Americas,Central America,1868,1,1,2011,12,31,2011
+22,HON,Honduras,91,91,Americas,Central America,1899,1,1,2011,12,31,2011
+23,SAL,El Salvador,92,92,Americas,Central America,1875,1,1,2011,12,31,2011
+24,NIC,Nicaragua,93,93,Americas,Central America,1900,1,1,2011,12,31,2011
+25,COS,Costa Rica,94,94,Americas,Central America,1920,1,1,2011,12,31,2011
+26,PAN,Panama,95,95,Americas,Central America,1903,11,3,2011,12,31,2011
+27,COL,Colombia,100,100,Americas,South America,1831,1,1,2011,12,31,2011
+28,VEN,Venezuela,101,101,Americas,South America,1841,1,1,2011,12,31,2011
+29,GUY,Guyana,110,110,Americas,South America,1966,5,26,2011,12,31,2011
+30,SUR,Suriname,115,115,Americas,South America,1975,11,25,2011,12,31,2011
+31,ECU,Ecuador,130,130,Americas,South America,1854,1,1,2011,12,31,2011
+32,PER,Peru,135,135,Americas,South America,1839,1,1,2011,12,31,2011
+33,BRA,Brazil,140,140,Americas,South America,1822,9,7,2011,12,31,2011
+34,BOL,Bolivia,145,145,Americas,South America,1848,1,1,2011,12,31,2011
+36,PAR,Paraguay,150,150,Americas,South America,1876,6,22,2011,12,31,2011
+37,CHL,Chile,155,155,Americas,South America,1839,1,1,2011,12,31,2011
+38,ARG,Argentina,160,160,Americas,South America,1841,1,1,2011,12,31,2011
+39,URU,Uruguay,165,165,Americas,South America,1882,1,1,2011,12,31,2011
+40,UKG,United Kingdom,200,200,Europe,Northern Europe,1816,1,1,2011,12,31,2011
+41,IRE,Ireland,205,205,Europe,Northern Europe,1922,12,6,2011,12,31,2011
+43,NTH,Netherlands,210,210,Europe,Western Europe,1945,6,26,2011,12,31,2011
+45,BEL,Belgium,211,211,Europe,Western Europe,1945,6,26,2011,12,31,2011
+47,LUX,Luxembourg,212,212,Europe,Western Europe,1944,9,10,2011,12,31,2011
+49,FRN,France,220,220,Europe,Western Europe,1944,8,25,2011,12,31,2011
+50,MNC,Monaco,221,221,Europe,Western Europe,1993,5,28,2011,12,31,2011
+51,LIE,Liechtenstein,223,223,Europe,Western Europe,1990,9,18,2011,12,31,2011
+52,SWZ,Switzerland,225,225,Europe,Western Europe,1816,1,1,2011,12,31,2011
+53,SPN,Spain,230,230,Europe,Southern Europe,1816,1,1,2011,12,31,2011
+54,AND,Andorra,232,232,Europe,Southern Europe,1993,7,28,2011,12,31,2011
+55,POR,Portugal,235,235,Europe,Southern Europe,1816,1,1,2011,12,31,2011
+56,HAN,Hanover,240,255,Europe,Western Europe,1837,6,20,1866,7,26,2011
+57,BAV,Bavaria,245,255,Europe,Western Europe,1816,1,1,1871,1,18,2011
+59,GMY,Germany,255,255,Europe,Western Europe,1990,10,3,2011,12,31,2011
+60,GFR,German Federal Republic,260,255,Europe,Western Europe,1955,5,5,1990,10,2,2011
+61,GDR,German Democratic Republic,265,255,Europe,Western Europe,1954,3,25,1990,10,2,2011
+62,BAD,Baden,267,#N/A,#N/A,#N/A,1816,1,1,1871,1,18,2011
+63,SAX,Saxony,269,255,Europe,Western Europe,1816,1,1,1867,4,17,2011
+64,WRT,Wuerttemburg,271,255,Europe,Western Europe,1816,1,1,1871,1,18,2011
+65,HSE,Hesse Electoral,273,255,Europe,Western Europe,1816,1,1,1866,7,26,2011
+66,HSG,Hesse Grand Ducal,275,255,Europe,Western Europe,1816,1,1,1867,4,17,2011
+67,MEC,Mecklenburg Schwerin,280,255,Europe,Western Europe,1843,1,1,1867,4,17,2011
+69,POL,Poland,290,290,Europe,Eastern Europe,1945,6,28,2011,12,31,2011
+70,AUH,Austria-Hungary,300,310,Europe,Eastern Europe,1816,1,1,1918,11,12,2011
+72,AUS,Austria,305,305,Europe,Western Europe,1955,7,27,2011,12,31,2011
+73,HUN,Hungary,310,310,Europe,Eastern Europe,1918,11,16,2011,12,31,2011
+75,CZE,Czechoslovakia,315,316,Europe,Eastern Europe,1945,5,10,1992,12,31,2011
+76,CZR,Czech Republic,316,316,Europe,Eastern Europe,1993,1,1,2011,12,31,2011
+77,SLO,Slovakia,317,317,Europe,Eastern Europe,1993,1,1,2011,12,31,2011
+78,ITA,Italy,325,325,Europe,Southern Europe,1816,1,1,2011,12,31,2011
+79,PAP,Papal States,327,#N/A,#N/A,#N/A,1816,1,1,1860,11,5,2011
+80,SIC,Two Sicilies,329,325,Europe,Southern Europe,1816,1,1,1861,2,13,2011
+81,SNM,San Marino,331,331,Europe,Southern Europe,1992,3,2,2011,12,31,2011
+82,MOD,Modena,332,#N/A,#N/A,#N/A,1842,1,1,1860,3,15,2011
+83,PMA,Parma,335,#N/A,#N/A,#N/A,1851,1,1,1860,3,15,2011
+84,TUS,Tuscany,337,325,Europe,Southern Europe,1816,1,1,1860,3,15,2011
+85,MLT,Malta,338,338,Europe,Southern Europe,1964,9,21,2011,12,31,2011
+87,ALB,Albania,339,339,Europe,Southern Europe,1944,11,17,2011,12,31,2011
+88,MNG,Montenegro,341,341,Europe,Southern Europe,2006,6,12,2011,12,31,2011
+89,MAC,Macedonia,343,355,Europe,Eastern Europe,1993,4,8,2011,12,31,2011
+90,CRO,Croatia,344,344,Europe,Southern Europe,1992,1,15,2011,12,31,2011
+92,YUG,Yugoslavia,345,339,Europe,Southern Europe,1944,10,20,2011,12,31,2011
+93,BOS,Bosnia and Herzegovina,346,346,Europe,Southern Europe,1992,4,7,2011,12,31,2011
+94,KOS,Kosovo,347,355,Europe,Eastern Europe,2008,2,20,2011,12,31,2011
+95,SLV,Slovenia,349,349,Europe,Southern Europe,1992,1,15,2011,12,31,2011
+97,GRC,Greece,350,350,Europe,Southern Europe,1944,10,13,2011,12,31,2011
+98,CYP,Cyprus,352,352,Asia,Western Asia,1960,8,16,2011,12,31,2011
+99,BUL,Bulgaria,355,355,Europe,Eastern Europe,1908,10,5,2011,12,31,2011
+100,MLD,Moldova,359,359,Europe,Eastern Europe,1991,12,26,2011,12,31,2011
+101,ROM,Romania,360,360,Europe,Eastern Europe,1878,7,13,2011,12,31,2011
+102,RUS,Russia,365,365,Europe,Eastern Europe,1816,1,1,2011,12,31,2011
+104,EST,Estonia,366,366,Europe,Northern Europe,1991,9,6,2011,12,31,2011
+106,LAT,Latvia,367,367,Europe,Northern Europe,1991,9,6,2011,12,31,2011
+108,LIT,Lithuania,368,368,Europe,Northern Europe,1991,9,6,2011,12,31,2011
+109,UKR,Ukraine,369,369,Europe,Eastern Europe,1991,12,26,2011,12,31,2011
+110,BLR,Belarus,370,370,Europe,Eastern Europe,1991,12,26,2011,12,31,2011
+111,ARM,Armenia,371,371,Asia,Western Asia,1991,12,26,2011,12,31,2011
+112,GRG,Georgia,372,372,Asia,Western Asia,1991,12,26,2011,12,31,2011
+113,AZE,Azerbaijan,373,373,Asia,Western Asia,1991,12,26,2011,12,31,2011
+114,FIN,Finland,375,375,Europe,Northern Europe,1917,12,6,2011,12,31,2011
+115,SWD,Sweden,380,380,Europe,Northern Europe,1816,1,1,2011,12,31,2011
+117,NOR,Norway,385,385,Europe,Northern Europe,1945,5,7,2011,12,31,2011
+119,DEN,Denmark,390,390,Europe,Northern Europe,1945,5,7,2011,12,31,2011
+120,ICE,Iceland,395,395,Europe,Northern Europe,1944,6,17,2011,12,31,2011
+121,CAP,Cape Verde,402,#N/A,#N/A,#N/A,1975,7,5,2011,12,31,2011
+122,STP,Sao Tome and Principe,403,403,Africa,Middle Africa,1975,7,12,2011,12,31,2011
+123,GNB,Guinea-Bissau,404,404,Africa,Western Africa,1974,9,10,2011,12,31,2011
+124,EQG,Equatorial Guinea,411,411,Africa,Middle Africa,1968,10,12,2011,12,31,2011
+125,GAM,Gambia,420,420,Africa,Western Africa,1965,2,18,2011,12,31,2011
+126,MLI,Mali,432,432,Africa,Western Africa,1960,6,20,2011,12,31,2011
+127,SEN,Senegal,433,433,Africa,Western Africa,1960,8,20,2011,12,31,2011
+128,BEN,Benin,434,434,Africa,Western Africa,1960,8,1,2011,12,31,2011
+129,MAA,Mauritania,435,435,Africa,Western Africa,1960,11,28,2011,12,31,2011
+130,NIR,Niger,436,436,Africa,Western Africa,1960,10,3,2011,12,31,2011
+131,CDI,Ivory Coast,437,437,Africa,Western Africa,1960,8,7,2011,12,31,2011
+132,GUI,Guinea,438,438,Africa,Western Africa,1958,10,2,2011,12,31,2011
+133,BFO,Burkina Faso,439,439,Africa,Western Africa,1960,8,5,2011,12,31,2011
+134,LBR,Liberia,450,450,Africa,Western Africa,1920,6,30,2011,12,31,2011
+135,SIE,Sierra Leone,451,451,Africa,Western Africa,1961,4,27,2011,12,31,2011
+136,GHA,Ghana,452,452,Africa,Western Africa,1957,3,6,2011,12,31,2011
+137,TOG,Togo,461,461,Africa,Western Africa,1960,4,27,2011,12,31,2011
+138,CAO,Cameroon,471,471,Africa,Middle Africa,1960,1,1,2011,12,31,2011
+139,NIG,Nigeria,475,475,Africa,Western Africa,1960,10,1,2011,12,31,2011
+140,GAB,Gabon,481,481,Africa,Middle Africa,1960,8,17,2011,12,31,2011
+141,CEN,Central African Republic,482,482,Africa,Middle Africa,1960,8,13,2011,12,31,2011
+142,CHA,Chad,483,483,Africa,Middle Africa,1960,8,11,2011,12,31,2011
+143,CON,Congo,484,484,Africa,Middle Africa,1960,8,15,2011,12,31,2011
+144,DRC,Democratic Republic of the Congo,490,490,Africa,Middle Africa,1960,6,30,2011,12,31,2011
+145,UGA,Uganda,500,500,Africa,Eastern Africa,1962,10,9,2011,12,31,2011
+146,KEN,Kenya,501,501,Africa,Eastern Africa,1963,12,12,2011,12,31,2011
+147,TAZ,Tanzania,510,510,Africa,Eastern Africa,1961,12,9,2011,12,31,2011
+148,ZAN,Zanzibar,511,510,Africa,Eastern Africa,1963,12,19,1964,4,26,2011
+149,BUI,Burundi,516,516,Africa,Eastern Africa,1962,7,1,2011,12,31,2011
+150,RWA,Rwanda,517,517,Africa,Eastern Africa,1962,7,1,2011,12,31,2011
+151,SOM,Somalia,520,520,Africa,Eastern Africa,1960,7,1,2011,12,31,2011
+152,DJI,Djibouti,522,522,Africa,Eastern Africa,1977,6,27,2011,12,31,2011
+154,ETH,Ethiopia,530,530,Africa,Eastern Africa,1941,5,5,2011,12,31,2011
+155,ERI,Eritrea,531,531,Africa,Eastern Africa,1993,5,24,2011,12,31,2011
+156,ANG,Angola,540,540,Africa,Middle Africa,1975,11,11,2011,12,31,2011
+157,MZM,Mozambique,541,541,Africa,Eastern Africa,1975,6,25,2011,12,31,2011
+158,ZAM,Zambia,551,551,Africa,Eastern Africa,1964,10,24,2011,12,31,2011
+159,ZIM,Zimbabwe,552,552,Africa,Eastern Africa,1965,11,11,2011,12,31,2011
+160,MAW,Malawi,553,553,Africa,Eastern Africa,1964,7,6,2011,12,31,2011
+161,SAF,South Africa,560,560,Africa,Southern Africa,1920,1,10,2011,12,31,2011
+162,NAM,Namibia,565,565,Africa,Southern Africa,1990,3,21,2011,12,31,2011
+163,LES,Lesotho,570,570,Africa,Southern Africa,1966,10,4,2011,12,31,2011
+164,BOT,Botswana,571,571,Africa,Southern Africa,1966,9,30,2011,12,31,2011
+165,SWA,Swaziland,572,572,Africa,Southern Africa,1968,9,6,2011,12,31,2011
+166,MAG,Madagascar,580,580,Africa,Eastern Africa,1960,6,26,2011,12,31,2011
+167,COM,Comoros,581,581,Africa,Eastern Africa,1975,12,31,2011,12,31,2011
+168,MAS,Mauritius,590,590,Africa,Eastern Africa,1968,3,12,2011,12,31,2011
+169,SEY,Seychelles,591,591,Africa,Eastern Africa,1976,6,29,2011,12,31,2011
+171,MOR,Morocco,600,600,Africa,Northern Africa,1956,3,2,2011,12,31,2011
+172,ALG,Algeria,615,615,Africa,Northern Africa,1962,7,5,2011,12,31,2011
+174,TUN,Tunisia,616,616,Africa,Northern Africa,1956,3,20,2011,12,31,2011
+175,LIB,Libya,620,620,Africa,Northern Africa,1951,12,24,2011,12,31,2011
+176,SUD,Sudan,625,625,Africa,Northern Africa,1956,1,1,2011,12,31,2011
+177,SSD,South Sudan,626,626,Africa,Eastern Africa,2011,7,9,2011,12,31,2011
+178,IRN,Iran,630,630,Asia,Southern Asia,1855,1,1,2011,12,31,2011
+179,TUR,Turkey,640,640,Asia,Western Asia,1816,1,1,2011,12,31,2011
+180,IRQ,Iraq,645,645,Asia,Western Asia,1932,10,3,2011,12,31,2011
+182,EGY,Egypt,651,651,Africa,Northern Africa,1937,5,26,2011,12,31,2011
+184,SYR,Syria,652,652,Asia,Western Asia,1961,9,29,2011,12,31,2011
+185,LEB,Lebanon,660,660,Asia,Western Asia,1946,3,10,2011,12,31,2011
+186,JOR,Jordan,663,663,Asia,Western Asia,1946,3,22,2011,12,31,2011
+187,ISR,Israel,666,666,Asia,Western Asia,1948,5,14,2011,12,31,2011
+188,SAU,Saudi Arabia,670,670,Asia,Western Asia,1927,5,20,2011,12,31,2011
+189,YAR,Yemen Arab Republic,678,679,Asia,Western Asia,1926,9,2,1990,5,21,2011
+190,YEM,Yemen,679,679,Asia,Western Asia,1990,5,22,2011,12,31,2011
+191,YPR,Yemen People's Republic,680,679,Asia,Western Asia,1967,11,30,1990,5,21,2011
+192,KUW,Kuwait,690,690,Asia,Western Asia,1961,6,19,2011,12,31,2011
+193,BAH,Bahrain,692,692,Asia,Western Asia,1971,8,15,2011,12,31,2011
+194,QAT,Qatar,694,694,Asia,Western Asia,1971,9,3,2011,12,31,2011
+195,UAE,United Arab Emirates,696,696,Asia,Western Asia,1971,12,2,2011,12,31,2011
+196,OMA,Oman,698,698,Asia,Western Asia,1971,10,7,2011,12,31,2011
+197,AFG,Afghanistan,700,700,Asia,Southern Asia,1919,8,8,2011,12,31,2011
+198,TKM,Turkmenistan,701,701,Asia,Central Asia,1991,12,26,2011,12,31,2011
+199,TAJ,Tajikistan,702,702,Asia,Central Asia,1991,12,26,2011,12,31,2011
+200,KYR,Kyrgyzstan,703,703,Asia,Central Asia,1991,12,26,2011,12,31,2011
+201,UZB,Uzbekistan,704,704,Asia,Central Asia,1991,12,26,2011,12,31,2011
+202,KZK,Kazakhstan,705,705,Asia,Central Asia,1991,12,26,2011,12,31,2011
+203,CHN,China,710,710,Asia,Eastern Asia,1860,10,25,2011,12,31,2011
+204,MON,Mongolia,712,712,Asia,Eastern Asia,1921,3,13,2011,12,31,2011
+205,TAW,Taiwan,713,840,Asia,South-Eastern Asia,1949,12,8,2011,12,31,2011
+206,KOR,Korea,730,731,Asia,Eastern Asia,1887,1,1,1905,11,17,2011
+207,PRK,North Korea,731,731,Asia,Eastern Asia,1948,9,9,2011,12,31,2011
+208,ROK,South Korea,732,732,Asia,Eastern Asia,1949,6,29,2011,12,31,2011
+210,JPN,Japan,740,740,Asia,Eastern Asia,1952,4,28,2011,12,31,2011
+211,IND,India,750,750,Asia,Southern Asia,1947,8,15,2011,12,31,2011
+212,BHU,Bhutan,760,760,Asia,Southern Asia,1971,9,21,2011,12,31,2011
+213,PAK,Pakistan,770,770,Asia,Southern Asia,1947,8,14,2011,12,31,2011
+214,BNG,Bangladesh,771,771,Asia,Southern Asia,1971,12,16,2011,12,31,2011
+215,MYA,Myanmar,775,775,Asia,South-Eastern Asia,1948,1,4,2011,12,31,2011
+216,SRI,Sri Lanka,780,780,Asia,Southern Asia,1948,2,4,2011,12,31,2011
+217,MAD,Maldives,781,781,Asia,Southern Asia,1965,7,26,2011,12,31,2011
+218,NEP,Nepal,790,790,Asia,Southern Asia,1920,1,1,2011,12,31,2011
+219,THI,Thailand,800,800,Asia,South-Eastern Asia,1887,1,1,2011,12,31,2011
+220,CAM,Cambodia,811,811,Asia,South-Eastern Asia,1953,11,9,2011,12,31,2011
+221,LAO,Laos,812,800,Asia,South-Eastern Asia,1953,10,23,2011,12,31,2011
+222,DRV,Vietnam,816,817,Asia,South-Eastern Asia,1954,7,21,2011,12,31,2011
+223,RVN,Republic of Vietnam,817,817,Asia,South-Eastern Asia,1954,6,4,1975,4,30,2011
+224,MAL,Malaysia,820,820,Asia,South-Eastern Asia,1957,8,31,2011,12,31,2011
+225,SIN,Singapore,830,830,Asia,South-Eastern Asia,1965,8,9,2011,12,31,2011
+226,BRU,Brunei,835,820,Asia,South-Eastern Asia,1984,1,1,2011,12,31,2011
+227,PHI,Philippines,840,840,Asia,South-Eastern Asia,1946,7,4,2011,12,31,2011
+228,INS,Indonesia,850,850,Asia,South-Eastern Asia,1949,12,27,2011,12,31,2011
+229,ETM,East Timor,860,860,Asia,South-Eastern Asia,2002,9,27,2011,12,31,2011
+230,AUL,Australia,900,900,Oceania,Australia and New Zealand,1920,1,10,2011,12,31,2011
+231,PNG,Papua New Guinea,910,910,Oceania,Melanesia,1975,9,16,2011,12,31,2011
+232,NEW,New Zealand,920,920,Oceania,Australia and New Zealand,1920,1,10,2011,12,31,2011
+233,VAN,Vanuatu,935,935,Oceania,Melanesia,1981,9,15,2011,12,31,2011
+234,SOL,Solomon Islands,940,940,Oceania,Melanesia,1978,7,7,2011,12,31,2011
+235,KIR,Kiribati,946,946,Oceania,Micronesia,1999,9,14,2011,12,31,2011
+236,TUV,Tuvalu,947,947,Oceania,Polynesia,2000,9,5,2011,12,31,2011
+237,FIJ,Fiji,950,950,Oceania,Melanesia,1970,10,10,2011,12,31,2011
+238,TON,Tonga,955,955,Oceania,Polynesia,1999,9,14,2011,12,31,2011
+239,NAU,Nauru,970,970,Oceania,Micronesia,1999,9,14,2011,12,31,2011
+240,MSI,Marshall Islands,983,983,Oceania,Micronesia,1991,9,17,2011,12,31,2011
+241,PAL,Palau,986,986,Oceania,Micronesia,1994,12,15,2011,12,31,2011
+242,FSM,Federated States of Micronesia,987,987,Oceania,Micronesia,1991,9,17,2011,12,31,2011
+243,WSM,Samoa,990,990,Oceania,Polynesia,1976,12,15,2011,12,31,2011
