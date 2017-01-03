@@ -99,7 +99,7 @@ countryinfo.NA <- subset(countryinfo, countryinfo$Macro.Region == "#N/A" | count
 
 
 #voteinfo - cleaned with no NA's
-voteinfo.temp <- voteinfo[rowSums(is.na(voteinfo)) > 0, ]  #OK, 31 (~0%) - let's drop these 31 instances since they represent >1%
+voteinfo.temp <- voteinfo[rowSums(is.na(voteinfo)) > 0, ]  #OK, 31 (~0%) - let's drop these 31 instances since they represent <1%
 voteinfo <- voteinfo[ !rowSums(is.na(voteinfo)) > 0, ]
 
 #rawvotes
