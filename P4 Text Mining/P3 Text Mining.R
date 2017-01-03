@@ -168,13 +168,11 @@ findAssocs(frequencies, c("states"), corlimit=0.25) # specifying a correlation l
 #  2. Of or relating to Africa (af)
 #  3. Budgetary (bu)
 #  4. of or relating to the security council (sc)
-#  5. of international interest/impact (in)
+#  5. of international interest/impact (int)
 #  6. relating to peace (pc)
-#  7. relating to delegation of power (pw)
-#  8. special issues/initiaitves (sp)
-#  9. relating to multiple states (st)
-#  10. of or relating to the united nations (un) 
-#  11. N/A
+#  7. special issues/initiaitves (sp)
+#  8. of or relating to the united nations (un) 
+
 
 
 
