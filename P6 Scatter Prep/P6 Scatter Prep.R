@@ -23,7 +23,7 @@ voteinfo <- transform(voteinfo,
                       pc = as.integer(pc))
 str(voteinfo)
 
-#let's ensure the rcid is the uniqque identifier we can use to tie to the voteinfo dataset
+#let's ensure the rcid is the unique identifier we can use to tie to the voteinfo dataset
 temp <- data.frame(table(voteinfo$rcid))
 temp[temp$Freq > 1,]
 
@@ -206,7 +206,7 @@ str(unvotes)
 unvotes <- transform(unvotes, 
                      v.weight = as.integer(v.weight),
                      Idealpoint = as.numeric(Idealpoint),
-                     importantvote = as.integer(importantvote),
+                     importantvote = as.numeric(importantvote),
                      S.AM = as.integer(S.AM),
                      N.AM = as.integer(N.AM),
                      W.EU = as.integer(W.EU),
@@ -232,3 +232,9 @@ unvotes <- transform(unvotes,
 
 write.csv(unvotes, file = "P6outputscatterprep.csv")
 save(unvotes,file="P6outputscatterprep.Rda")
+
+
+#CONCLUSION: We now have one complete data file we can start doing some cluster analysis on
+
+
+
